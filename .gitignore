@@ -1,0 +1,8 @@
+/venv/
+/app/*.pyc
+db_repository/
+*.pyc
+config.py
+/tmp/
+temp
+test.db
