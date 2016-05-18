@@ -9,10 +9,10 @@ Framework: Flask
 ## What the hell is it?
 It's a microblog site code with Python
 
-## then, how?
+## Then, how?
 [follow this guide](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
-## exts
+## Python exts
 ```
 $ flask/bin/pip install flask
 $ flask/bin/pip install flask-login
@@ -28,3 +28,7 @@ $ flask/bin/pip install flipflop
 $ flask/bin/pip install coverage
 ```
 
+## Run
+```
+./run.py
+```
