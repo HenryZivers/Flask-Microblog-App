@@ -1,4 +1,4 @@
-# z_flask
+# Flask-Microblog-App
 
 ## Info
 Author: Henry Zhang
